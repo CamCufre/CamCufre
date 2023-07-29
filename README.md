@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Camila Cufre, a passionate web development student and an independent illustrator with a great love for technology.
+I'm Camila Cufre, a passionate web developer, an independent illustrator and a Computer Science Student with a great love for technology.
 
 📚 Throughout my education, I have worked on various projects, ranging from Frontend development, where I bring web designs to life and create interactive interfaces, to Backend development, where I efficiently manage databases, consume APIs, and handle server requests.
 
