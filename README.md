@@ -11,8 +11,7 @@
 
 ⚡ Weird fact: I hate some words just for the way them sound.
 
-<span align="center">If you're looking for a committed partner... ###contact me!###
-📱+5491127571202
+<span align="center">If you're looking for a committed partner... contact me!
 📧 camcufre.dev@gmail.com</span></h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CamCufre&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="CamCufre" /> </p>
