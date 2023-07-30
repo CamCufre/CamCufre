@@ -14,7 +14,7 @@
 <span align="center">If you're looking for a committed partner... contact me!
 📧 camcufre.dev@gmail.com</span></h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CamCufre&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="CamCufre" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CamCufre&label=Profile%20views&color=green&style=for-the-badge" alt="CamCufre" /> </p>
 
 - 🔭 I’m currently working on a **Library Web**, it is oriented to the management of OnLine Books Shop.
 
