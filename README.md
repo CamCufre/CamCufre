@@ -11,7 +11,7 @@
 
 ⚡ Weird fact: I hate some words just for the way them sound.
 
-<span align="center">Don't hesitate to contact me, so we can create something amazing together!
+<span align="center">If you're looking for a committed partner... ###contact me!###
 📱+5491127571202
 📧 camcufre.dev@gmail.com</span></h4>
 
