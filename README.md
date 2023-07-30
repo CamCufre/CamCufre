@@ -17,11 +17,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CamCufre&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="CamCufre" /> </p>
 
-- 🔭 I’m currently working on **Proyect Final Henry**, It is oriented to the management of OnLine teachers in different specializations (Finished).
+- 🔭 I’m currently working on a **Library Web**, it is oriented to the management of OnLine Books Shop.
 
-- 🌱 I’m currently learning **JavaScript, Vite, Postgres SQL, CSS**
-
-- 📫 How to reach me **puntonetazul@gmail.com**
+- 🌱 I’m currently learning **TypeScript and Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
