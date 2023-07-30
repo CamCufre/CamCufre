@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! Welcome to my working space!</h1>
 <h3 align="center">I'm Camila Cufre, a passionate web developer, an independent illustrator and a Computer Science Student with a great love for technology.</h3>
-<hr/>
+
 <h4 align="center">📚 Throughout my education, I have worked on various projects, ranging from Frontend development, where I bring web designs to life and create interactive interfaces, to Backend development, where I efficiently manage databases, consume APIs, and handle server requests.
 
 🎨 In addition to my passion for technology, I am also an independent illustrator. I love combining my web development skills with my artistic creativity to create unique and visually appealing experiences.
